@@ -1,0 +1,6 @@
+description = "extended_map : standard ocaml map extended with zipper/cursor"
+version = "0.1.0"
+exists_if = "extended_map.cma,extended_map.cmxa"
+archive(byte) = "extended_map.cma"
+archive(native) = "extended_map.cmxa"
+
